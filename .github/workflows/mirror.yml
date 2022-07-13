@@ -3,7 +3,7 @@ on:
     branches:
       - 'main'
   schedule:
-    - cron: "30 8 * * ?"
+    - cron: "30 9 * * ?"
 
 jobs:
   mirror_job:
